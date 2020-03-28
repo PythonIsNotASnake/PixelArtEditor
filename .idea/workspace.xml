@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zkn6EuvzKQ79vhexOBIMDa5Jh8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -74,9 +77,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1098" height="170" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585391973900" />
-    <state x="680" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585391825292">
+    <state x="680" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585394223260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="680" y="381" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585391825292" />
+    <state x="680" y="381" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585394223260" />
   </component>
 </project>
